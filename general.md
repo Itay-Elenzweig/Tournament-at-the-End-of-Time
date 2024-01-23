@@ -35,4 +35,4 @@ The TET serves multiple purposes:
 
 This general overview sets the stage for a campaign filled with cosmic intrigue, high-stakes battles, and a journey through a tournament where the fate of souls and the fabric of reality are at stake.
 
-[Back to the index](/index#index)
+[Back to the index](/index.md#index)

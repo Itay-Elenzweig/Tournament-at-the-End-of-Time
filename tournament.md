@@ -38,4 +38,4 @@ The final stage, "The Trial of Echoes," is a labyrinthine trial focusing on puzz
 
 Each stage of the Tournament at the End of Time is crafted to challenge the champions in different aspects, testing their abilities, intellect, and spirit, culminating in a potentially reality-altering finale.
 
-[Back to the index](/index#index)
+[Back to the index](/index.md#index)

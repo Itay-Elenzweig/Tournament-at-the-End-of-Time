@@ -9,10 +9,10 @@ The Hall of Entry is the grand gateway to the Tournament at the End of Time, sho
 
 #### Minor Locations within The Hall of Entry
 - **Feast Halls**: These are massive dining areas offering a wide array of culinary delights. They are a hub of activity and social interaction among the champions.
-- **Hall of Records**: A vast library containing histories and tales from across the multiverse, guarded by [The Cosmic Librarian, Oa](/npcs#oa-the-cosmic-librarian). It's a place of knowledge and research for those seeking deeper understanding of the tournament's lore.
+- **Hall of Records**: A vast library containing histories and tales from across the multiverse, guarded by [The Cosmic Librarian, Oa](/npcs.md#oa-the-cosmic-librarian). It's a place of knowledge and research for those seeking deeper understanding of the tournament's lore.
 
 #### Frequently Seen NPCs
-- **[The Chronicler](/npcs#the-chronicler)**: An ageless entity often found documenting the activities within the Hall, recording the events of the tournament for posterity.
+- **[The Chronicler](/npcs.md#the-chronicler)**: An ageless entity often found documenting the activities within the Hall, recording the events of the tournament for posterity.
 
 ### The Garden of Eternity
 
@@ -21,7 +21,7 @@ The Garden of Eternity is a tranquil and lush oasis within the Tournament at the
 
 #### Minor Locations within The Garden of Eternity
 - **Sanctum of Reflection**: A secluded area within the garden designed for introspection and mental and emotional healing, ideal for champions seeking solace and clarity.
-- **Tree of Knowledge**: The revered gateway to [The Chambers of Whispering](/locations#chambers-of-whispering), where champions can access private communication channels. The mystical guardian of the Tree of Knowledge, known simply as [The Keeper of the Tree](/npcs#the-keeper-of-the-tree) can prefrom the ritual needed to allow champions to accesss the Chambers of Whispering.
+- **Tree of Knowledge**: The revered gateway to [The Chambers of Whispering](/locations.md#chambers-of-whispering), where champions can access private communication channels. The mystical guardian of the Tree of Knowledge, known simply as [The Keeper of the Tree](/npcs.md#the-keeper-of-the-tree) can prefrom the ritual needed to allow champions to accesss the Chambers of Whispering.
 - **Dimensional Baths (True-Healing Spas)**: Magical spas offering healing and relaxation treatments, where champions can recover and rejuvenate after their battles. The spas are known for their restorative properties and serene environment.
 - **Champions' Resorts**: Acting as a foyer to the resorts, the garden provides a transition area where champions can rest and sleep between rounds, offering a peaceful respite from the rigors of the tournament.
 
@@ -122,4 +122,4 @@ Each realm in the Crucible presents unique environmental challenges, and their g
 
 This comprehensive overview of the locations within the Tournament at the End of Time offers varied and vibrant settings for encounters, rest, training, and strategic planning, enriching the narrative and gameplay of the campaign.
 
-[Back to the index](/index#index)
+[Back to the index](/index.md#index)

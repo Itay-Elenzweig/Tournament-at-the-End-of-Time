@@ -40,7 +40,7 @@ The Chronicler is an ageless, enigmatic entity, appearing as a tall, slender fig
 Known for being detached and impartial, The Chronicler possesses a calm demeanor, moving with purpose and precision. Despite appearing distant, it emanates wisdom and understanding.
 
 #### Common Location
-The Chronicler is most often found in [The Hall of Entry](/locations#the-hall-of-entry) or near significant event locations within the tournament, diligently observing and recording the events.
+The Chronicler is most often found in [The Hall of Entry](/locations.md#the-hall-of-entry) or near significant event locations within the tournament, diligently observing and recording the events.
 
 #### Affiliation
 As a construct of the Architects, The Chronicler serves as a referee, observer, and recorder, documenting the grand saga of the Tournament at the End of Time under the directives of its creators.
@@ -54,7 +54,7 @@ The Celestial Merchants are a group of enigmatic traders, each with a distinct a
 Each merchant has a unique personality, ranging from the jovial and talkative to the serene and contemplative. They share a common trait of being knowledgeable about their wares and the stories behind them. Their demeanor is always friendly and accommodating, yet they maintain an air of mystery about their origins and true nature.
 
 #### Common Location
-The Celestial Merchants are primarily found within their expansive tent in the [Market of the Multiverse](/locations#the-market-of-the-multiverse). Their tent is a hub of trade and interaction, bustling with champions and spectators alike.
+The Celestial Merchants are primarily found within their expansive tent in the [Market of the Multiverse](/locations.md#the-market-of-the-multiverse). Their tent is a hub of trade and interaction, bustling with champions and spectators alike.
 
 #### Affiliation
 Neutral and independent, The Celestial Merchants are not directly affiliated with any specific group in the tournament. Their primary interest lies in the trade and exchange of rare and magical items, serving champions and visitors from all realms.
@@ -68,7 +68,7 @@ The Mystic Seer is a former champion, now an enigmatic and powerful mystic drape
 Reserved and speaking sparingly, The Mystic Seer conveys a sense of profound knowledge and insight. The Seer's guidance, though cryptic, is deeply insightful, reflecting their vast experience and wisdom.
 
 #### Common Location
-The Mystic Seer is often found in a serene, secluded space within the [Hall of Entry](/locations#the-hall-of-entry), providing a calm environment for those seeking counsel. This location allows them to observe the tournament while remaining detached from its direct conflicts.
+The Mystic Seer is often found in a serene, secluded space within the [Hall of Entry](/locations.md#the-hall-of-entry), providing a calm environment for those seeking counsel. This location allows them to observe the tournament while remaining detached from its direct conflicts.
 
 #### Affiliation
 As a former champion and now a free agent, The Mystic Seer holds no direct affiliations in the tournament. They were once the master of [Arkan the Tomb Sentinel](/main_npcs/arkan.md#overview), the current guardian of the Forgotten Ruins. This past relationship adds a layer of depth to their character and influence within the tournament.
@@ -82,7 +82,7 @@ Oa, The Cosmic Librarian, is an immortal being who presides over the infinite Ha
 Oa is wise and measured, speaking in a tone that resonates with the depth of their ancient knowledge. They possess a serene composure, often imparting insights in a manner that is both profound and enigmatic. Their presence in the Hall of Records is both commanding and reassuring, offering a sense of stability and continuity in the ever-shifting tournament.
 
 #### Common Location
-Oa is primarily found within the [Hall of Records](/locations#the-hall-of-records), surrounded by tomes and artifacts that span the breadth of time and space. They are often accompanied by cherubs, divine beings that envelop visitors in a protective aura, shielding them from the overwhelming nature of the infinite knowledge contained within the Hall.
+Oa is primarily found within the [Hall of Records](/locations.md#the-hall-of-records), surrounded by tomes and artifacts that span the breadth of time and space. They are often accompanied by cherubs, divine beings that envelop visitors in a protective aura, shielding them from the overwhelming nature of the infinite knowledge contained within the Hall.
 
 #### Affiliation
 Oa serves as a neutral figure in the tournament, unaligned with any specific faction. Their role as the keeper of all recorded history makes them a valuable resource for champions seeking insights into the tournament, their opponents, or the nature of the universe itself.
@@ -96,7 +96,7 @@ The Keeper of the Tree is the mystical guardian of the Tree of Knowledge, a reve
 Solemn yet kind, the Keeper speaks in a voice echoing the ages, offering guidance and understanding. They exude calmness and a sense of sacred duty, patiently assisting champions seeking to access the Chambers of Whispering.
 
 #### Common Location
-Stationed at the base of the [Tree of Knowledge](/locations#tree-of-knowledge), located in the Garden of Eternity, the Keeper is a symbol of tranquility and reflection, fitting their profound role in the tournament.
+Stationed at the base of the [Tree of Knowledge](/locations.md#tree-of-knowledge), located in the Garden of Eternity, the Keeper is a symbol of tranquility and reflection, fitting their profound role in the tournament.
 
 #### Affiliation
 Dedicated to the protection of the Tree of Knowledge, the Keeper is a neutral guardian, their loyalty solely to the tree and the vast knowledge it represents.
@@ -110,7 +110,7 @@ The Rift Walker is an enigmatic figure known for their expertise in planar trave
 The Rift Walker is seen as an observer, often quiet and contemplative, yet when they speak, their words carry the weight of otherworldly wisdom. They possess a subtle, almost unnoticeable, aura of power that suggests a deep connection with the cosmic forces they manipulate.
 
 #### Common Location
-Often found wandering near the [Chambers of Whispering](/locations#chambers-of-whispering) or in secluded areas of the [Hall of Entry](/locations#the-hall-of-entry), The Rift Walker is always close to the heart of the tournament's interdimensional activities.
+Often found wandering near the [Chambers of Whispering](/locations.md#chambers-of-whispering) or in secluded areas of the [Hall of Entry](/locations.md#the-hall-of-entry), The Rift Walker is always close to the heart of the tournament's interdimensional activities.
 
 #### Affiliation
 While their true intentions are obscure, The Rift Walker is believed to act as the eyes and ears of the Architects. Their role is to ensure the secrets of the Tournament at the End of Time come to fruition, maintaining the endless harvesting of soul coins and preserving the status quo of the tournament's dynamics.
@@ -124,7 +124,7 @@ Elara is a small and frail-looking Tiefling with a warm and friendly demeanor th
 Despite her circumstances, Elara exudes positivity and warmth. She is always eager to assist and provide guidance to the champions, serving as a friendly and helpful liaison. Her big personality and approachability make her a beloved figure among the champions, many of whom see her as a source of comfort and support in the daunting environment of the tournament.
 
 #### Common Location
-Elara can be commonly found in the bustling areas of the tournament, like the [Feast Halls](/locations#feast-halls) or the [Market of the Multiverse](/locations#market-of-the-multiverse), where she assists champions in navigating the complexities of the tournament. She is also frequently seen near Nanaue, aiding in his dealings.
+Elara can be commonly found in the bustling areas of the tournament, like the [Feast Halls](/locations.md#feast-halls) or the [Market of the Multiverse](/locations.md#market-of-the-multiverse), where she assists champions in navigating the complexities of the tournament. She is also frequently seen near Nanaue, aiding in his dealings.
 
 #### Affiliation
 Bound in service to Nanaue, Elara works under the Treasurer's directive but maintains a sense of independence in her interactions with the champions. Her affiliation with Nanaue is born out of a debt she owes to the tournament, yet she handles her role with grace and resilience.
@@ -140,7 +140,7 @@ Nanaue, the Treasurer, is a Sharkin of impressive stature and sharp, shark-like 
 Nanaue is known for his shrewdness and business acumen. He speaks in a measured, deliberate manner, carefully weighing his words. While he may seem unemotional and detached, there is a cunning and strategic mind behind his shark-like gaze. Nanaue is respectful in his interactions but leaves no doubt about his allegiance to the Architects and the serious nature of his role.
 
 #### Common Location
-Nanaue is often found in the more opulent areas of the tournament, such as the [Hall of Entry](/locations#the-hall-of-entry) or near the [Arena of Trials](/locations#arena-of-trials). He is approachable to those seeking to engage in transactions or negotiations involving soul coins.
+Nanaue is often found in the more opulent areas of the tournament, such as the [Hall of Entry](/locations.md#the-hall-of-entry) or near the [Arena of Trials](/locations.md#arena-of-trials). He is approachable to those seeking to engage in transactions or negotiations involving soul coins.
 
 #### Affiliation
 Nanaue serves the Architects as the Treasurer. He is responsible for managing the flow of soul coins within the tournament, acting as a "loan shark" who offers deals with steep terms to champions. His role is pivotal in maintaining the economic balance of the tournament and ensuring the Architects' interests are upheld.
@@ -154,7 +154,7 @@ Mirthful Margo, a former champion, now delights the participants of the tourname
 Margo is known for her jovial and friendly demeanor. She loves sharing stories of her adventures, both in and out of the kitchen. Her laughter is infectious, and she has a knack for lifting the spirits of everyone around her.
 
 #### Common Location
-Margo can be found in the bustling [Feast Halls](/locations#feast-halls), surrounded by the delicious aromas of her cooking. She is always ready to serve up a hearty meal or a light-hearted tale to the tournament's participants.
+Margo can be found in the bustling [Feast Halls](/locations.md#feast-halls), surrounded by the delicious aromas of her cooking. She is always ready to serve up a hearty meal or a light-hearted tale to the tournament's participants.
 
 #### Affiliation
 As a former champion, Margo has seen her share of battles but now finds joy in serving others through her culinary talents. She remains a beloved figure in the tournament, known for her warmth and generosity.
@@ -168,7 +168,7 @@ Bargain Hunter Baako is a broke immortal who has turned his passion for collecti
 Baako is shrewd and has a keen eye for value. He is talkative and persuasive, always eager to share the story behind each of his collected items. Despite his focus on deals, he maintains a friendly and approachable demeanor.
 
 #### Common Location
-Baako is a fixture in the [Market of the Multiverse](/locations#market-of-the-multiverse), where he hunts for rare and exotic items. He is often seen haggling over prices or exploring new additions to the market.
+Baako is a fixture in the [Market of the Multiverse](/locations.md#market-of-the-multiverse), where he hunts for rare and exotic items. He is often seen haggling over prices or exploring new additions to the market.
 
 #### Affiliation
 As an immortal who has found a new purpose in the tournament, Baako is independent and focused on his passion for collecting. His extensive knowledge of various artifacts makes him a valuable resource for champions seeking unique items.
@@ -182,11 +182,11 @@ Tired Trainer Torm, once a formidable champion, now dedicates his time to traini
 Torm is serious and focused when it comes to training, but also possesses a patient and nurturing side. He is respectful of all champions, regardless of their skill level, and is committed to helping them improve and succeed.
 
 #### Common Location
-Torm spends most of his time in the [True-Healing Spa](/locations#true-healing-spa), where he not only helps champions recover from their battles but also offers training and strategic advice to improve their combat skills.
+Torm spends most of his time in the [True-Healing Spa](/locations.md#true-healing-spa), where he not only helps champions recover from their battles but also offers training and strategic advice to improve their combat skills.
 
 #### Affiliation
 As a former champion, Torm’s experience in the tournament is invaluable. He now channels his energies into helping others achieve their potential, becoming a respected figure among the champions for his guidance and expertise.
 
 This list of NPCs provides a foundation for encounters, quests, and story development within the campaign. Each character can be expanded upon in separate detailed files to flesh out their backgrounds, motivations, and roles in the Tournament at the End of Time.
 
-[Back to the index](/index#index)
+[Back to the index](/index.md#index)

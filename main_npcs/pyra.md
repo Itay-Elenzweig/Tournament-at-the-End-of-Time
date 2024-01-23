@@ -1,8 +1,8 @@
 # Pyra, the Flamehearted
 
 ## Overview
-Pyra, the Flamehearted, is the formidable guardian of the [Emberfall Wastes](/locations#1-the-emberfall-wastes) in the Crucible stage of the Tournament at the End of Time. Known for her mastery over fire and lava, she presents a formidable challenge to champions in her realm.
-Pyra, the Flamehearted, harnessed the power of [Inferno's Wrath](/items#infernos-wrath) after she courageously extracted it from the volcanic remains at the core of a fallen titan.
+Pyra, the Flamehearted, is the formidable guardian of the [Emberfall Wastes](/locations.md#1-the-emberfall-wastes) in the Crucible stage of the Tournament at the End of Time. Known for her mastery over fire and lava, she presents a formidable challenge to champions in her realm.
+Pyra, the Flamehearted, harnessed the power of [Inferno's Wrath](/items.md#infernos-wrath) after she courageously extracted it from the volcanic remains at the core of a fallen titan.
 
 ## Appearance
 - **Physique**: Tall and muscular, with skin resembling molten rock.
@@ -21,8 +21,8 @@ Pyra, the Flamehearted, harnessed the power of [Inferno's Wrath](/items#infernos
 
 ## Becoming a Guardian
 - **Reason for Abandoning Wish**: Recognizing the improbability of her wish and its potential ramifications, Pyra chose the path of a guardian.
-- **Role as Guardian**: Tests the resolve and strength of champions in the [Emberfall Wastes](/locations#1-the-emberfall-wastes), ensuring only the most courageous and determined proceed in the tournament.
+- **Role as Guardian**: Tests the resolve and strength of champions in the [Emberfall Wastes](/locations.md#1-the-emberfall-wastes), ensuring only the most courageous and determined proceed in the tournament.
 
 Pyra's role as a guardian is a testament to her strength and resilience, symbolizing the spirit of a warrior facing insurmountable odds. Her presence in the Crucible adds depth and a challenging element to the Tournament at the End of Time.
 
-[Back to the index](/index#index)
+[Back to the index](/index.md#index)
