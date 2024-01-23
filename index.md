@@ -17,6 +17,4 @@
 6. [Special Items and Artifacts](/items.md#special-items-and-artifacts)
    - [Soul Coins](/items.md#soul-coins)
    - [Weapons](/items.md#weapons)
-<!-- 7. [Factions and Alliances](/npcs.md#factions-and-alliances)
-8. [Background Lore and Worldbuilding](/general.md#background-lore-and-worldbuilding) -->
 
